@@ -1,0 +1,17 @@
+## project dependencies
+# if running project on a VM uncomment jupyter libraries to ensure remote IP address access 
+
+#jupyter==1.0.0
+#notebook==5.5.0
+#jupyter_client==5.2.3
+#jupyter_core==4.4.0
+h5py>=2.8.0
+numpy>=1.4.0
+tensorflow
+sklearn
+keras
+pandas
+matplotlib
+opencv-python
+seaborn
+pillow

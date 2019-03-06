@@ -8,7 +8,6 @@ Cover_to_cover.ipynb contains the Similarity based Image Recommendation System
 
 genre_classification.ipynb explores the relationship between genre and cover design features with Neural network modeling
 
-visualizations.ipynb contains a plot of the most interesting results from  genre_classification.
 
 Directories:
 models/ contains all models used for the Project

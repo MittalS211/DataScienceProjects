@@ -10,6 +10,7 @@ genre_classification.ipynb explores the relationship between genre and cover des
 
 
 Directories:
+
 models/ contains all models used for the Project
 
 model_history/ contains results from ALL tests on data set

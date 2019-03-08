@@ -1,4 +1,4 @@
-This Repository contains all files for Cover to Cover, a content based Image Retrieval recommender system  of the Amazon book covers dataset with Unsupervised Similarity algorithms.
+This Repository contains all files for Cover to Cover, a content based Image Retrieval recommender system  of the Amazon book covers dataset with similarity algorithms in Computer Vision .
 
 The project files
 

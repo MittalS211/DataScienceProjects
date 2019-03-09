@@ -1,4 +1,6 @@
-This Repository contains all files for Cover to Cover, a content based Image Retrieval recommender system  of the Amazon book covers dataset with similarity algorithms in Computer Vision .
+This Repository contains all files for Cover to Cover, a content based Image Retrieval recommender system  of the Amazon book covers dataset with similarity algorithms in Computer Vision.
+
+**NOTE** if Notebooks are not rendering please copy the url go to https://nbviewer.jupyter.org/ to view the files
 
 The project files
 

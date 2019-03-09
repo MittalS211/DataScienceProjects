@@ -4,7 +4,7 @@ The project files
 
 Notebooks:
 
-**NOTE** if Notebooks are not rendering please copy the url go to https://nbviewer.jupyter.org/ to view the files
+**NOTE** if Notebooks are not rendering please copy the url and go to https://nbviewer.jupyter.org/ to view the files
 
 Cover_to_cover.ipynb contains the Similarity based Image Recommendation System
 

@@ -1,17 +1,16 @@
-This Repository contains all files for Cover to Cover, a content based Image Retrieval recommender system  of the Amazon book covers dataset with similarity algorithms in Computer Vision.
+# This Repository contains all files for Cover to Cover
+**Description:** Cover to Cover is a Content Based Image Retrieval recommender system  of the Amazon book covers dataset utilizing similarity algorithms in Computer Vision.
 
-The project files
+## The project files
 
-Notebooks:
-
-**NOTE** if Notebooks are not rendering please copy the url and go to https://nbviewer.jupyter.org/ to view the files
+**NOTE:** If Notebooks are not rendering please copy the url and go to https://nbviewer.jupyter.org/ to view the files
 
 Cover_to_cover.ipynb contains the Similarity based Image Recommendation System
 
 genre_classification.ipynb explores the relationship between genre and cover design features with Neural network modeling
 
 
-Directories:
+## Directories:
 
 models/ contains all models used for the Project (including the pre-trained cocoresNet50 model for object Detection)
 

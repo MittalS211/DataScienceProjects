@@ -3,12 +3,12 @@
 
 ## The project files
 
-**NOTE:** If Notebooks are not rendering please copy the url and go to https://nbviewer.jupyter.org/ to view the files
-
 Cover_to_cover.ipynb contains the Similarity based Image Recommendation System
 
 genre_classification.ipynb explores the relationship between genre and cover design features with Neural network modeling
 
+
+**NOTE:** If Notebooks are not rendering please copy the url and go to https://nbviewer.jupyter.org/ to view the files
 
 ## Directories:
 

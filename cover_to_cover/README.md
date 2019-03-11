@@ -21,8 +21,8 @@ modeling_pipeline/ contains code for neural network pipeline and plotting functi
 
 image_detections/ contains all code and modeling for object detection attempts referenced in cover_to_cover.ipynb
 
-the Image-AI library for object detection can be downloaded at https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl
+the Image-AI library for object detection can be downloaded at via pip at https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl
 
-data_crawler_scripts/ contains modified python and shell scripts for retrieving book cover images from  https://github.com/uchidalab/book-dataset and use these scripts to bypass errors from missing/broken image urls
+data_crawler_scripts/ contains modified python and shell scripts for retrieving book cover images from https://github.com/uchidalab/book-dataset and use these scripts to bypass errors from missing/broken image urls
 
 

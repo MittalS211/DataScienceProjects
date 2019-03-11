@@ -1,4 +1,5 @@
-# This Repository contains my Supervised Learning Capstone for Thinkful's Data Science Program
+# Predicting FireFighter Response Times
+Applying Supervised Learning: An analysis of factors affecting FireFighter Response Times in New York City 
 
 Predicting_Response_Times_of_Firefighters_in_NYC.pdf is a copy of the slide deck presented to Thinkful Staff and students in November 2018.
 

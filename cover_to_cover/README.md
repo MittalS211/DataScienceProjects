@@ -1,4 +1,4 @@
-# This Repository contains all files for Cover to Cover
+# Cover to Cover A (not so) Novel Approach to Book Recommendations
 **Description:** Cover to Cover is a Content Based Image Retrieval recommender system  of the Amazon book covers dataset utilizing similarity algorithms in Computer Vision.
 
 ## The project files
